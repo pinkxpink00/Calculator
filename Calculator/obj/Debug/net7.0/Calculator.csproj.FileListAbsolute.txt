@@ -1,0 +1,15 @@
+/home/german/RiderProjects/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/home/german/RiderProjects/Calculator/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/german/RiderProjects/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/home/german/RiderProjects/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/home/german/RiderProjects/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/home/german/RiderProjects/Calculator/Calculator/bin/Debug/net7.0/Calculator
+/home/german/RiderProjects/Calculator/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/home/german/RiderProjects/Calculator/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/home/german/RiderProjects/Calculator/Calculator/bin/Debug/net7.0/Calculator.dll
+/home/german/RiderProjects/Calculator/Calculator/bin/Debug/net7.0/Calculator.pdb
+/home/german/RiderProjects/Calculator/Calculator/obj/Debug/net7.0/Calculator.dll
+/home/german/RiderProjects/Calculator/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/home/german/RiderProjects/Calculator/Calculator/obj/Debug/net7.0/Calculator.pdb
+/home/german/RiderProjects/Calculator/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/home/german/RiderProjects/Calculator/Calculator/obj/Debug/net7.0/ref/Calculator.dll
